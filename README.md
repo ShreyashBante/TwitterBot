@@ -70,3 +70,7 @@ MIT License
 
 ## Disclaimer
 Make sure to comply with Twitter's automation rules and rate limits when using this bot.
+=======
+# TwitterBot
+This repo is for a Bot which will help with my X updates
+>>>>>>> d3cb1e73e9715776796395bbf01557d6846dca36
